@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "donate-level": 5,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "xmrpool.eu:9999",
+            "user": "44zspiRWhSoU22SbD58F8aWUWmFY6v8MzKaxN63Jk68sCSVLfn8HL8ZUSSJvVJxHfE3sBeUq4HH1LXrfm31B44RQ3QtJRxq",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
